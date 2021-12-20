@@ -24,7 +24,7 @@
   "homepage": "https://github.com/yahoo/express-busboy",
   "dependencies": {
     "body": "~5.1.0",
-    "connect-busboy": "~0.0.1",
+    "connect-busboy": "git+https://github.com/hmmdeif/connect-busboy.git",
     "mkdirp": "~0.5.0",
     "qs": "^6.4.0",
     "uuid": "~1.4.1"
